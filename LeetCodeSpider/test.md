@@ -1,30 +1,30 @@
 | # | Title | Difficulty | Solution |
 | --- | --- | --- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | [javascript](Linked List/2. Add Two Numbers.md) |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | [javascript](3. Longest Substring Without Repeating Characters.md) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | [javascript](./Linked List/2. Add Two Numbers.md) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | [javascript](./3. Longest Substring Without Repeating Characters.md) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium |
-| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | Medium | [javascript](6. ZigZag Conversion.md) |
+| 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | Medium | [javascript](./6. ZigZag Conversion.md) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Easy |
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | [javascript](8. String to Integer (atoi).md) |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | [javascript](./8. String to Integer (atoi).md) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | Hard |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium |
-| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | Medium | [javascript](12. Integer to Roman.md) |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [javascript](13. Roman to Integer.md) |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | Medium | [javascript](./12. Integer to Roman.md) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [javascript](./13. Roman to Integer.md) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | Medium |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium |
 | 18 | [4Sum](https://leetcode.com/problems/4sum) | Medium |
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium | [javascript](Linked List/19. Remove Nth Node From End of List.md) |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [javascript](Stack/20. Valid Parentheses.md) |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [javascript](Linked List/21. Merge Two Sorted Lists.md) |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | [javascript](Stack/22. Generate Parentheses.md) |
-| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | [javascript](Linked List/23. Merge k Sorted Lists.md) |
-| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Medium | [javascript](Linked List/24. Swap Nodes in Pairs.md) |
-| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Hard | [javascript](Linked List/25. Reverse Nodes in k-Group.md) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium | [javascript](./Linked List/19. Remove Nth Node From End of List.md) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [javascript](./Stack/20. Valid Parentheses.md) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | [javascript](./Linked List/21. Merge Two Sorted Lists.md) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | [javascript](./Stack/22. Generate Parentheses.md) |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | [javascript](./Linked List/23. Merge k Sorted Lists.md) |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Medium | [javascript](./Linked List/24. Swap Nodes in Pairs.md) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Hard | [javascript](./Linked List/25. Reverse Nodes in k-Group.md) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy |
@@ -33,11 +33,11 @@
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | Medium |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | Hard |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium |
-| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | [javascript](Binary Search/34. Find First and Last Position of Element in Sorted Array.md) |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | [javascript](./Binary Search/34. Find First and Last Position of Element in Sorted Array.md) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Medium |
-| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | Hard | [javascript](Backtracking/37. Sudoku Solver.md) |
-| 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | Easy | [javascript](Funny/38. Count and Say.md) |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | Hard | [javascript](./Backtracking/37. Sudoku Solver.md) |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | Easy | [javascript](./Funny/38. Count and Say.md) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | Medium |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | Hard |
@@ -45,187 +45,187 @@
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | Medium |
 | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | Hard |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | Hard |
-| 46 | [Permutations](https://leetcode.com/problems/permutations) | Medium | [javascript](46. Permutations.md) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations) | Medium | [javascript](./46. Permutations.md) |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [javascript](Sort/49. Group Anagrams.md) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | [javascript](./Sort/49. Group Anagrams.md) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | Hard |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Easy |
-| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | [javascript](54. Spiral Matrix.md) |
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [javascript](Funny/55. Jump Game.md) |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | [javascript](./54. Spiral Matrix.md) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | [javascript](./Funny/55. Jump Game.md) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Hard |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy |
-| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | Medium | [javascript](59. Spiral Matrix II.md) |
+| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | Medium | [javascript](./59. Spiral Matrix II.md) |
 | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) | Medium |
-| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | Medium | [javascript](Linked List/61. Rotate List.md) |
-| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | [javascript](Dynamic Programming/62. Unique Paths.md) |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | Medium | [javascript](./Linked List/61. Rotate List.md) |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | Medium | [javascript](./Dynamic Programming/62. Unique Paths.md) |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | Medium |
-| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Medium | [javascript](Dynamic Programming/64. Minimum Path Sum.md) |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Medium | [javascript](./Dynamic Programming/64. Minimum Path Sum.md) |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number) | Hard |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [javascript](Array/66. Plus One.md) |
-| 67 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | [javascript](Funny/67. Add Binary.md) |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [javascript](./Array/66. Plus One.md) |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | [javascript](./Funny/67. Add Binary.md) |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification) | Hard |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy |
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [javascript](Dynamic Programming/70. Climbing Stairs.md) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | [javascript](./Dynamic Programming/70. Climbing Stairs.md) |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | Medium |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance) | Hard |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium |
-| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium | [javascript](Binary Search/74. Search a 2D Matrix.md) |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [javascript](Sort/75. Sort Colors.md) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium | [javascript](./Binary Search/74. Search a 2D Matrix.md) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | [javascript](./Sort/75. Sort Colors.md) |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard |
-| 77 | [Combinations](https://leetcode.com/problems/combinations) | Medium | [javascript](Combinations/77. Combinations.md) |
-| 78 | [Subsets](https://leetcode.com/problems/subsets) | Medium | [javascript](Combinations/78. Subsets.md) |
-| 79 | [Word Search](https://leetcode.com/problems/word-search) | Medium | [javascript](Backtracking/79. Word Search.md) |
-| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium | [javascript](Array/80. Remove Duplicates from Sorted Array II.md) |
+| 77 | [Combinations](https://leetcode.com/problems/combinations) | Medium | [javascript](./Combinations/77. Combinations.md) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets) | Medium | [javascript](./Combinations/78. Subsets.md) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search) | Medium | [javascript](./Backtracking/79. Word Search.md) |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium | [javascript](./Array/80. Remove Duplicates from Sorted Array II.md) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | Medium |
-| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Medium | [javascript](Linked List/82. Remove Duplicates from Sorted List II.md) |
-| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [javascript](Linked List/83. Remove Duplicates from Sorted List.md) |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | Medium | [javascript](./Linked List/82. Remove Duplicates from Sorted List II.md) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | [javascript](./Linked List/83. Remove Duplicates from Sorted List.md) |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | Hard |
-| 86 | [Partition List](https://leetcode.com/problems/partition-list) | Medium | [javascript](Linked List/86. Partition List.md) |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list) | Medium | [javascript](./Linked List/86. Partition List.md) |
 | 87 | [Scramble String](https://leetcode.com/problems/scramble-string) | Hard |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [javascript](Array/88. Merge Sorted Array.md) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | [javascript](./Array/88. Merge Sorted Array.md) |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code) | Medium |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii) | Medium |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways) | Medium |
-| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | Medium | [javascript](Linked List/92. Reverse Linked List II.md) |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | Medium | [javascript](./Linked List/92. Reverse Linked List II.md) |
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Medium |
-| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | Medium | [javascript](Tree/95. Unique Binary Search Trees II.md) |
+| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | Medium | [javascript](./Tree/95. Unique Binary Search Trees II.md) |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | Medium |
 | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | Hard |
-| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | [javascript](Tree/98. Validate Binary Search Tree.md) |
-| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | Hard | [javascript](Tree/99. Recover Binary Search Tree.md) |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [javascript](Tree/100. Same Tree.md) |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | [javascript](./Tree/98. Validate Binary Search Tree.md) |
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | Hard | [javascript](./Tree/99. Recover Binary Search Tree.md) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | Easy | [javascript](./Tree/100. Same Tree.md) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | Easy |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium | [javascript](Tree/102. Binary Tree Level Order Traversal.md) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium | [javascript](./Tree/102. Binary Tree Level Order Traversal.md) |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Medium |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | [javascript](Tree/104. Maximum Depth of Binary Tree.md) |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium | [javascript](Tree/105. Construct Binary Tree from Preorder and Inorder Traversal.md) |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | Medium | [javascript](Tree/106. Construct Binary Tree from Inorder and Postorder Traversal.md) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | [javascript](./Tree/104. Maximum Depth of Binary Tree.md) |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium | [javascript](./Tree/105. Construct Binary Tree from Preorder and Inorder Traversal.md) |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | Medium | [javascript](./Tree/106. Construct Binary Tree from Inorder and Postorder Traversal.md) |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | Easy |
-| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy | [javascript](Tree/108. Convert Sorted Array to Binary Search Tree.md) |
-| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | Medium | [javascript](Linked List/109. Convert Sorted List to Binary Search Tree.md) |
-| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | [javascript](Tree/110. Balanced Binary Tree.md) |
-| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | [javascript](Tree/111. Minimum Depth of Binary Tree.md) |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | Easy | [javascript](./Tree/108. Convert Sorted Array to Binary Search Tree.md) |
+| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | Medium | [javascript](./Linked List/109. Convert Sorted List to Binary Search Tree.md) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | [javascript](./Tree/110. Balanced Binary Tree.md) |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | [javascript](./Tree/111. Minimum Depth of Binary Tree.md) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum) | Easy |
-| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | Medium | [javascript](Tree/113. Path Sum II.md) |
-| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | Medium | [javascript](Tree/114. Flatten Binary Tree to Linked List.md) |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | Medium | [javascript](./Tree/113. Path Sum II.md) |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | Medium | [javascript](./Tree/114. Flatten Binary Tree to Linked List.md) |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) | Hard |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | Medium |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | Medium |
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy | [javascript](Funny/118. Pascal's Triangle.md) |
-| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | [javascript](Funny/119. Pascal's Triangle II.md) |
-| 120 | [Triangle](https://leetcode.com/problems/triangle) | Medium | [javascript](Dynamic Programming/120. Triangle.md) |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy | [javascript](./Funny/118. Pascal's Triangle.md) |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | [javascript](./Funny/119. Pascal's Triangle II.md) |
+| 120 | [Triangle](https://leetcode.com/problems/triangle) | Medium | [javascript](./Dynamic Programming/120. Triangle.md) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Easy |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | Hard |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Hard |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | [javascript](Two Pointers/125. Valid Palindrome.md) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | [javascript](./Two Pointers/125. Valid Palindrome.md) |
 | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | Hard |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Medium |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Hard |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | Medium |
-| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium | [javascript](Backtracking/130. Surrounded Regions.md) |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium | [javascript](./Backtracking/130. Surrounded Regions.md) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | Medium |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii) | Hard |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station) | Medium |
 | 135 | [Candy](https://leetcode.com/problems/candy) | Hard |
-| 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | [javascript](136. Single Number.md) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | [javascript](./136. Single Number.md) |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | Medium |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | Medium |
 | 139 | [Word Break](https://leetcode.com/problems/word-break) | Medium |
 | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii) | Hard |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | [javascript](Linked List/141. Linked List Cycle.md) |
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | [javascript](Linked List/142. Linked List Cycle II.md) |
-| 143 | [Reorder List](https://leetcode.com/problems/reorder-list) | Medium | [javascript](Linked List/143. Reorder List.md) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | [javascript](./Linked List/141. Linked List Cycle.md) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | [javascript](./Linked List/142. Linked List Cycle II.md) |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list) | Medium | [javascript](./Linked List/143. Reorder List.md) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Medium |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Hard |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Hard |
-| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | Medium | [javascript](Linked List/147. Insertion Sort List.md) |
-| 148 | [Sort List](https://leetcode.com/problems/sort-list) | Medium | [javascript](Linked List/148. Sort List.md) |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | Medium | [javascript](./Linked List/147. Insertion Sort List.md) |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list) | Medium | [javascript](./Linked List/148. Sort List.md) |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | Hard |
-| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | [javascript](Stack/150. Evaluate Reverse Polish Notation.md) |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | [javascript](./Stack/150. Evaluate Reverse Polish Notation.md) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | Medium |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Medium |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | Hard |
-| 155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | [javascript](Stack/155. Min Stack.md) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | [javascript](./Stack/155. Min Stack.md) |
 | 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) | Medium |
 | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4) | Easy |
 | 158 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times) | Hard |
 | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) | Hard |
-| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy | [javascript](Linked List/160. Intersection of Two Linked Lists.md) |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy | [javascript](./Linked List/160. Intersection of Two Linked Lists.md) |
 | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance) | Medium |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | Medium |
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges) | Medium |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap) | Hard |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | Medium |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | Medium |
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Easy | [javascript](Binary Search/167. Two Sum II - Input array is sorted.md) |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Easy | [javascript](./Binary Search/167. Two Sum II - Input array is sorted.md) |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy |
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Easy |
-| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Medium | [javascript](Tree/173. Binary Search Tree Iterator.md) |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Medium | [javascript](./Tree/173. Binary Search Tree Iterator.md) |
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game) | Hard |
-| 179 | [Largest Number](https://leetcode.com/problems/largest-number) | Medium | [javascript](179. Largest Number.md) |
+| 179 | [Largest Number](https://leetcode.com/problems/largest-number) | Medium | [javascript](./179. Largest Number.md) |
 | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) | Medium |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | Medium |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | Hard |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Easy |
-| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [javascript](Bit Manipulation/190. Reverse Bits.md) |
-| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [javascript](Bit Manipulation/191. Number of 1 Bits.md) |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | [javascript](./Bit Manipulation/190. Reverse Bits.md) |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | [javascript](./Bit Manipulation/191. Number of 1 Bits.md) |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber) | Easy |
-| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | [javascript](Tree/199. Binary Tree Right Side View.md) |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | [javascript](Backtracking/200. Number of Islands.md) |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | [javascript](./Tree/199. Binary Tree Right Side View.md) |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | [javascript](./Backtracking/200. Number of Islands.md) |
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | Medium |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy |
-| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | [javascript](Linked List/203. Remove Linked List Elements.md) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | [javascript](./Linked List/203. Remove Linked List Elements.md) |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes) | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | [javascript](Linked List/206. Reverse Linked List.md) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | [javascript](./Linked List/206. Reverse Linked List.md) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium |
-| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Medium | [javascript](208. Implement Trie (Prefix Tree).md) |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | Medium | [javascript](./208. Implement Trie (Prefix Tree).md) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Medium |
 | 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design) | Medium |
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii) | Hard |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii) | Medium |
 | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) | Hard |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | [javascript](Heap/215. Kth Largest Element in an Array.md) |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | [javascript](./Heap/215. Kth Largest Element in an Array.md) |
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | Hard |
-| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | [javascript](Array/219. Contains Duplicate II.md) |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | [javascript](./Array/219. Contains Duplicate II.md) |
 | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | Medium |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square) | Medium |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | Medium |
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area) | Medium |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy |
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | [javascript](Tree/226. Invert Binary Tree.md) |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | Easy | [javascript](./Tree/226. Invert Binary Tree.md) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | Medium |
 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | Medium |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | [javascript](Tree/230. Kth Smallest Element in a BST.md) |
-| 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | [javascript](Funny/231. Power of Two.md) |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | [javascript](./Tree/230. Kth Smallest Element in a BST.md) |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | [javascript](./Funny/231. Power of Two.md) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy |
 | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one) | Hard |
-| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | [javascript](Linked List/234. Palindrome Linked List.md) |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Easy | [javascript](Tree/235. Lowest Common Ancestor of a Binary Search Tree.md) |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | [javascript](Tree/236. Lowest Common Ancestor of a Binary Tree.md) |
-| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy | [javascript](Linked List/237. Delete Node in a Linked List.md) |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | [javascript](./Linked List/234. Palindrome Linked List.md) |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | Easy | [javascript](./Tree/235. Lowest Common Ancestor of a Binary Search Tree.md) |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | [javascript](./Tree/236. Lowest Common Ancestor of a Binary Tree.md) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Easy | [javascript](./Linked List/237. Delete Node in a Linked List.md) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Medium |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Medium |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | [javascript](242. Valid Anagram.md) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | [javascript](./242. Valid Anagram.md) |
 | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | Easy |
 | 244 | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) | Medium |
 | 245 | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii) | Medium |
@@ -250,7 +250,7 @@
 | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii) | Hard |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) | Easy |
 | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii) | Medium |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | [javascript](Bit Manipulation/268. Missing Number.md) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | [javascript](./Bit Manipulation/268. Missing Number.md) |
 | 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary) | Hard |
 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value) | Easy |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) | Medium |
@@ -265,7 +265,7 @@
 | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort) | Medium |
 | 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator) | Medium |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | Hard |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [javascript](Two Pointers/283. Move Zeroes.md) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [javascript](./Two Pointers/283. Move Zeroes.md) |
 | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) | Medium |
 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) | Medium |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates) | Medium |
@@ -279,13 +279,13 @@
 | 294 | [Flip Game II](https://leetcode.com/problems/flip-game-ii) | Medium |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard |
 | 296 | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point) | Hard |
-| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Hard | [javascript](Tree/297. Serialize and Deserialize Binary Tree.md) |
+| 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Hard | [javascript](./Tree/297. Serialize and Deserialize Binary Tree.md) |
 | 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence) | Medium |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) | Medium |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Medium |
 | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses) | Hard |
 | 302 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels) | Hard |
-| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | [javascript](Dynamic Programming/303. Range Sum Query - Immutable.md) |
+| 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | [javascript](./Dynamic Programming/303. Range Sum Query - Immutable.md) |
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) | Medium |
 | 305 | [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii) | Hard |
 | 306 | [Additive Number](https://leetcode.com/problems/additive-number) | Medium |
@@ -310,7 +310,7 @@
 | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k) | Medium |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy |
 | 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) | Hard |
-| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | Medium | [javascript](Linked List/328. Odd Even Linked List.md) |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | Medium | [javascript](./Linked List/328. Odd Even Linked List.md) |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | Hard |
 | 330 | [Patching Array](https://leetcode.com/problems/patching-array) | Hard |
 | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) | Medium |
@@ -323,16 +323,16 @@
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits) | Medium |
 | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum) | Easy |
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) | Hard |
-| 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | Medium | [javascript](341. Flatten Nested List Iterator.md) |
+| 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | Medium | [javascript](./341. Flatten Nested List Iterator.md) |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy |
 | 343 | [Integer Break](https://leetcode.com/problems/integer-break) | Medium |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy |
-| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | [javascript](Two Pointers/345. Reverse Vowels of a String.md) |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | [javascript](./Two Pointers/345. Reverse Vowels of a String.md) |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream) | Easy |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium |
 | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe) | Medium |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | [javascript](Array/349. Intersection of Two Arrays.md) |
-| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | [javascript](Array/350. Intersection of Two Arrays II.md) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | [javascript](./Array/349. Intersection of Two Arrays.md) |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | [javascript](./Array/350. Intersection of Two Arrays II.md) |
 | 351 | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns) | Medium |
 | 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals) | Hard |
 | 353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game) | Medium |
@@ -356,7 +356,7 @@
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | Easy |
 | 372 | [Super Pow](https://leetcode.com/problems/super-pow) | Medium |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) | Medium |
-| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [javascript](Funny/374. Guess Number Higher or Lower.md) |
+| 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Easy | [javascript](./Funny/374. Guess Number Higher or Lower.md) |
 | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii) | Medium |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence) | Medium |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | Medium |
@@ -366,8 +366,8 @@
 | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | Hard |
 | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node) | Medium |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy |
-| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | Medium | [javascript](Array/384. Shuffle an Array.md) |
-| 385 | [Mini Parser](https://leetcode.com/problems/mini-parser) | Medium | [javascript](Stack/385. Mini Parser.md) |
+| 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | Medium | [javascript](./Array/384. Shuffle an Array.md) |
+| 385 | [Mini Parser](https://leetcode.com/problems/mini-parser) | Medium | [javascript](./Stack/385. Mini Parser.md) |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | Medium |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy |
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) | Medium |
@@ -386,8 +386,8 @@
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | Easy |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | Medium |
 | 403 | [Frog Jump](https://leetcode.com/problems/frog-jump) | Hard |
-| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy | [javascript](Tree/404. Sum of Left Leaves.md) |
-| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | Easy | [javascript](Bit Manipulation/405. Convert a Number to Hexadecimal.md) |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy | [javascript](./Tree/404. Sum of Left Leaves.md) |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | Easy | [javascript](./Bit Manipulation/405. Convert a Number to Hexadecimal.md) |
 | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | Medium |
 | 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) | Hard |
 | 408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation) | Easy |
@@ -427,12 +427,12 @@
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | Medium |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression) | Easy |
 | 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction) | Medium |
-| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | Medium | [javascript](Linked List/445. Add Two Numbers II.md) |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | Medium | [javascript](./Linked List/445. Add Two Numbers II.md) |
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence) | Hard |
 | 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy |
-| 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) | Medium | [javascript](Tree/449. Serialize and Deserialize BST.md) |
-| 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | Medium | [javascript](Tree/450. Delete Node in a BST.md) |
+| 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) | Medium | [javascript](./Tree/449. Serialize and Deserialize BST.md) |
+| 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | Medium | [javascript](./Tree/450. Delete Node in a BST.md) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | Medium |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | Easy |
@@ -443,7 +443,7 @@
 | 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs) | Easy |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | Easy |
 | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache) | Hard |
-| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [javascript](Bit Manipulation/461. Hamming Distance.md) |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | [javascript](./Bit Manipulation/461. Hamming Distance.md) |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | Medium |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | Easy |
 | 464 | [Can I Win](https://leetcode.com/problems/can-i-win) | Medium |
@@ -458,7 +458,7 @@
 | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square) | Medium |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes) | Medium |
 | 475 | [Heaters](https://leetcode.com/problems/heaters) | Easy |
-| 476 | [Number Complement](https://leetcode.com/problems/number-complement) | Easy | [javascript](Bit Manipulation/476. Number Complement.md) |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement) | Easy | [javascript](./Bit Manipulation/476. Number Complement.md) |
 | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance) | Medium |
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle) | Medium |
 | 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product) | Easy |
@@ -486,14 +486,14 @@
 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | Easy |
 | 502 | [IPO](https://leetcode.com/problems/ipo) | Hard |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | Medium |
-| 504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | [javascript](Funny/504. Base 7.md) |
+| 504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | [javascript](./Funny/504. Base 7.md) |
 | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii) | Medium |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy |
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy |
-| 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | Medium | [javascript](Tree/508. Most Frequent Subtree Sum.md) |
-| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | Medium | [javascript](Tree/513. Find Bottom Left Tree Value.md) |
+| 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | Medium | [javascript](./Tree/508. Most Frequent Subtree Sum.md) |
+| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | Medium | [javascript](./Tree/513. Find Bottom Left Tree Value.md) |
 | 514 | [Freedom Trail](https://leetcode.com/problems/freedom-trail) | Hard |
-| 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | Medium | [javascript](Tree/515. Find Largest Value in Each Tree Row.md) |
+| 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | Medium | [javascript](./Tree/515. Find Largest Value in Each Tree Row.md) |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | Medium |
 | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines) | Hard |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2) | Medium |
@@ -515,7 +515,7 @@
 | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | Medium |
 | 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string) | Medium |
 | 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | Medium |
-| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | Easy | [javascript](Tree/538. Convert BST to Greater Tree.md) |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | Easy | [javascript](./Tree/538. Convert BST to Greater Tree.md) |
 | 539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | Medium |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | Medium |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy |
@@ -539,7 +539,7 @@
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Medium |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | Easy |
 | 562 | [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix) | Medium |
-| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | Easy | [javascript](Tree/563. Binary Tree Tilt.md) |
+| 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | Easy | [javascript](./Tree/563. Binary Tree Tilt.md) |
 | 564 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome) | Hard |
 | 565 | [Array Nesting](https://leetcode.com/problems/array-nesting) | Medium |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy |
@@ -565,11 +565,11 @@
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) | Hard |
 | 604 | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator) | Easy |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy |
-| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy | [javascript](Tree/606. Construct String from Binary Tree.md) |
+| 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | Easy | [javascript](./Tree/606. Construct String from Binary Tree.md) |
 | 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | Medium |
 | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) | Medium |
 | 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string) | Medium |
-| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | [javascript](Tree/617. Merge Two Binary Trees.md) |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | [javascript](./Tree/617. Merge Two Binary Trees.md) |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | Medium |
 | 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) | Medium |
@@ -599,7 +599,7 @@
 | 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate) | Medium |
 | 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) | Medium |
 | 651 | [4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard) | Medium |
-| 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | Medium | [javascript](Tree/652. Find Duplicate Subtrees.md) |
+| 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | Medium | [javascript](./Tree/652. Find Duplicate Subtrees.md) |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | Easy |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) | Medium |
 | 655 | [Print Binary Tree](https://leetcode.com/problems/print-binary-tree) | Medium |
@@ -647,14 +647,14 @@
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | Easy |
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) | Medium |
 | 699 | [Falling Squares](https://leetcode.com/problems/falling-squares) | Hard |
-| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | [javascript](Tree/700. Search in a Binary Search Tree.md) |
-| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium | [javascript](Tree/701. Insert into a Binary Search Tree.md) |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | [javascript](./Tree/700. Search in a Binary Search Tree.md) |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium | [javascript](./Tree/701. Insert into a Binary Search Tree.md) |
 | 702 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size) | Medium |
 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | Easy |
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [javascript](Binary Search/704. Binary Search.md) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | [javascript](./Binary Search/704. Binary Search.md) |
 | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy |
 | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy |
-| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list) | Easy | [javascript](Linked List/707. Design Linked List.md) |
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list) | Easy | [javascript](./Linked List/707. Design Linked List.md) |
 | 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list) | Medium |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy |
 | 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist) | Hard |
@@ -672,7 +672,7 @@
 | 722 | [Remove Comments](https://leetcode.com/problems/remove-comments) | Medium |
 | 723 | [Candy Crush](https://leetcode.com/problems/candy-crush) | Medium |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy |
-| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | Medium | [javascript](Linked List/725. Split Linked List in Parts.md) |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts) | Medium | [javascript](./Linked List/725. Split Linked List in Parts.md) |
 | 726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms) | Hard |
 | 727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence) | Hard |
 | 728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy |
@@ -709,7 +709,7 @@
 | 759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time) | Hard |
 | 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings) | Easy |
 | 761 | [Special Binary String](https://leetcode.com/problems/special-binary-string) | Hard |
-| 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | [javascript](Bit Manipulation/762. Prime Number of Set Bits in Binary Representation.md) |
+| 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | [javascript](./Bit Manipulation/762. Prime Number of Set Bits in Binary Representation.md) |
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | Medium |
 | 764 | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign) | Medium |
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands) | Hard |
@@ -823,7 +823,7 @@
 | 873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) | Medium |
 | 874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation) | Easy |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | Medium |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [javascript](Linked List/876. Middle of the Linked List.md) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | [javascript](./Linked List/876. Middle of the Linked List.md) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game) | Medium |
 | 878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number) | Hard |
 | 879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes) | Hard |
@@ -844,7 +844,7 @@
 | 894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees) | Medium |
 | 895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack) | Hard |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy |
-| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | Easy | [javascript](Tree/897. Increasing Order Search Tree.md) |
+| 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | Easy | [javascript](./Tree/897. Increasing Order Search Tree.md) |
 | 898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays) | Medium |
 | 899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue) | Hard |
 | 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator) | Medium |
@@ -852,7 +852,7 @@
 | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set) | Hard |
 | 903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence) | Hard |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | Medium |
-| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | [javascript](Sort/905. Sort Array By Parity.md) |
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | [javascript](./Sort/905. Sort Array By Parity.md) |
 | 906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes) | Hard |
 | 907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums) | Medium |
 | 908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy |
@@ -865,10 +865,10 @@
 | 916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | Medium |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy |
 | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | Medium |
-| 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | Medium | [javascript](Tree/919. Complete Binary Tree Inserter.md) |
+| 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter) | Medium | [javascript](./Tree/919. Complete Binary Tree Inserter.md) |
 | 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists) | Hard |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | Medium |
-| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | [javascript](Sort/922. Sort Array By Parity II.md) |
+| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | [javascript](./Sort/922. Sort Array By Parity II.md) |
 | 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity) | Medium |
 | 924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread) | Hard |
 | 925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | Easy |
@@ -884,7 +884,7 @@
 | 935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer) | Medium |
 | 936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence) | Hard |
 | 937 | [Reorder Log Files](https://leetcode.com/problems/reorder-log-files) | Easy |
-| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Medium | [javascript](Tree/938. Range Sum of BST.md) |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Medium | [javascript](./Tree/938. Range Sum of BST.md) |
 | 939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle) | Medium |
 | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii) | Hard |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | Easy |
