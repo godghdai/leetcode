@@ -58,7 +58,7 @@ function createMarkDownTableStr(heads, datas) {
         var title=data.title.text;
         data["title"]=`[${title}](${data.title.url})`;
         var arr=Object.values(data);
-        filePathDic[data.n]&&arr.push(`[${title}](https://github.com/godghdai/leetcode/blob/master/${filePathDic[data.n]})`);
+        filePathDic[data.n]&&arr.push(`[${title}](${filePathDic[data.n]})`);
         return join(arr);
     }).join("")}`;
 }
