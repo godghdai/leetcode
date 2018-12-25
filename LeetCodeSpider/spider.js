@@ -58,7 +58,7 @@ function createMarkDownTableStr(heads, datas) {
         var title=data.title.text;
         data["title"]=`[${title}](${data.title.url})`;
         var arr=Object.values(data);
-        filePathDic[data.n]&&arr.push(`[${title}](${filePathDic[data.n]})`);
+        filePathDic[data.n]&&arr.push(`[JavaScript](${filePathDic[data.n]})`);
         return join(arr);
     }).join("")}`;
 }
