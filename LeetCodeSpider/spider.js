@@ -28,7 +28,7 @@ var heads = {
 }
 
 function createMarkDownTableStr(heads, datas) {
-    var join = arr => "| " + arr.join(" | ") + " |\n";
+    var join = arr => "| " + arr.join(" | ") + " |\r\n";
     return `${join(Object.keys(heads))}${join(new Array(Object.keys(heads).length).fill("---"))}${datas.map(data=>{
         data["title"]=`[${data.title.text}](${data.title.url})`;
         return join(Object.values(data));
@@ -68,7 +68,7 @@ var fs = require("fs");
             return {
                 "n": +innerText("#"),
                 "title": {
-                    "text": innerText("Title"),
+                    "text": tr.querySelector("td:nth-child(" + indexDic["Title"] + ") a").innerText.trim(),
                     "url": tr.querySelector("td:nth-child(" + indexDic["Title"] + ") a").href
                 },
                 "difficulty": innerText("Difficulty"),
