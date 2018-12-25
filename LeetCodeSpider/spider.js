@@ -16,7 +16,30 @@ var datas = [{
         },
         difficulty: 'Medium'
     }
-]
+];
+
+var fs = require("fs");
+var path = require("path");
+
+var spiderPath = __dirname;
+var spiderParentPath = path.resolve('../');
+
+var ignoreDirSet = new Set([".git", "LeetCodeSpider", "Resource", "README.md", ".gitignore"]);
+var filePathDic = {};
+readDirSync(spiderParentPath);
+
+function readDirSync(dirpath) {
+    fs.readdirSync(dirpath).forEach(filename => {
+        if (ignoreDirSet.has(filename)) return;
+        var filepath = path.join(dirpath, filename);
+        if (fs.statSync(filepath).isDirectory())
+            readDirSync(filepath);
+        else if (/^(\d+)\.(.+)\.md/.test(filename)) {
+            filePathDic[RegExp.$1] = path.relative(spiderParentPath, filepath).split(path.sep).join('/');
+        }
+    })
+}
+
 
 const LEFT_ALIGN = ":---",
     CENTER_ALIGN = 1,
@@ -24,14 +47,17 @@ const LEFT_ALIGN = ":---",
 var heads = {
     "#": CENTER_ALIGN,
     "Title": LEFT_ALIGN,
-    "Difficulty": CENTER_ALIGN
+    "Difficulty": CENTER_ALIGN,
+    "Solution": RIGHT_ALIGN
 }
 
 function createMarkDownTableStr(heads, datas) {
     var join = arr => "| " + arr.join(" | ") + " |\r\n";
     return `${join(Object.keys(heads))}${join(new Array(Object.keys(heads).length).fill("---"))}${datas.map(data=>{
-        data["title"]=`[${data.title.text}](${data.title.url})[x]`;
-        return join(Object.values(data));
+        data["title"]=`[${data.title.text}](${data.title.url})`;
+        var arr=Object.values(data);
+        filePathDic[data.n]&&arr.push(`[javascript](${filePathDic[data.n]})`);
+        return join(arr);
     }).join("")}`;
 }
 var fs = require("fs");
@@ -48,7 +74,7 @@ var fs = require("fs");
 */
 
 ;
-(async() => {
+(async () => {
     const browser = await puppeteer.launch({
         headless: true,
         devtools: false
