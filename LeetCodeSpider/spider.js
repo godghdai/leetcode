@@ -56,7 +56,7 @@ function createMarkDownTableStr(heads, datas) {
     return `${join(Object.keys(heads))}${join(new Array(Object.keys(heads).length).fill("---"))}${datas.map(data=>{
         data["title"]=`[${data.title.text}](${data.title.url})`;
         var arr=Object.values(data);
-        filePathDic[data.n]&&arr.push(`[javascript](./${filePathDic[data.n]})`);
+        filePathDic[data.n]&&arr.push(`[${data.title.text}]( ./${filePathDic[data.n]} )`);
         return join(arr);
     }).join("")}`;
 }
