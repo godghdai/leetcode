@@ -20,6 +20,7 @@ var datas = [{
 
 var fs = require("fs");
 var path = require("path");
+const querystring = require('querystring');
 
 var spiderPath = __dirname;
 var spiderParentPath = path.resolve('../');
@@ -35,7 +36,7 @@ function readDirSync(dirpath) {
         if (fs.statSync(filepath).isDirectory())
             readDirSync(filepath);
         else if (/^(\d+)\.(.+)\.md/.test(filename)) {
-            filePathDic[RegExp.$1] = path.relative(spiderParentPath, filepath).split(path.sep).join('/');
+            filePathDic[RegExp.$1] = querystring.escape(path.relative(spiderParentPath, filepath).split(path.sep).join('/'));
         }
     })
 }
