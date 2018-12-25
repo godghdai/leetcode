@@ -54,9 +54,10 @@ var heads = {
 function createMarkDownTableStr(heads, datas) {
     var join = arr => "| " + arr.join(" | ") + " |\r\n";
     return `${join(Object.keys(heads))}${join(new Array(Object.keys(heads).length).fill("---"))}${datas.map(data=>{
-        data["title"]=`[${data.title.text}](${data.title.url})`;
+        var title=data.title.text;
+        data["title"]=`[${title}](${data.title.url})`;
         var arr=Object.values(data);
-        filePathDic[data.n]&&arr.push(`[${data.title.text}]( ./${filePathDic[data.n]} )`);
+        filePathDic[data.n]&&arr.push(`[${title}](https://github.com/godghdai/leetcode/blob/master/${filePathDic[data.n]})`);
         return join(arr);
     }).join("")}`;
 }
