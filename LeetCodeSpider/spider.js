@@ -28,8 +28,8 @@ const LEFT_ALIGN = ":---",
     CENTER_ALIGN = ":---:",
     RIGHT_ALIGN = "---:";
 var heads = {
-    "Solved": CENTER_ALIGN,
-    "#": CENTER_ALIGN,
+    " ": CENTER_ALIGN,
+    "Num": CENTER_ALIGN,
     "Title": LEFT_ALIGN,
     "Solution": LEFT_ALIGN,
     "Difficulty": CENTER_ALIGN

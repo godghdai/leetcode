@@ -1,4 +1,4 @@
-| Solved | # | Title | Solution | Difficulty |
+|   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
 |  | 1 | [Two Sum](https://leetcode.com/problems/two-sum) |  | Easy |
 | :heavy_check_mark: | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [JavaScript](Linked%20List%2F2.%20Add%20Two%20Numbers.md) | Medium |
