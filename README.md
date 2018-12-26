@@ -10,7 +10,7 @@
 | :heavy_check_mark: | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [JavaScript](8.%20String%20to%20Integer%20(atoi).md) | Medium |
 |  | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) |  | Easy |
 |  | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |  | Hard |
-|  | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) |  | Medium |
+| :heavy_check_mark: | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [JavaScript](Two%20Pointers%2F11.%20Container%20With%20Most%20Water.md) | Medium |
 | :heavy_check_mark: | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [JavaScript](12.%20Integer%20to%20Roman.md) | Medium |
 | :heavy_check_mark: | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [JavaScript](13.%20Roman%20to%20Integer.md) | Easy |
 |  | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) |  | Easy |
@@ -25,8 +25,8 @@
 | :heavy_check_mark: | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [JavaScript](Linked%20List%2F23.%20Merge%20k%20Sorted%20Lists.md) | Hard |
 | :heavy_check_mark: | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [JavaScript](Linked%20List%2F24.%20Swap%20Nodes%20in%20Pairs.md) | Medium |
 | :heavy_check_mark: | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [JavaScript](Linked%20List%2F25.%20Reverse%20Nodes%20in%20k-Group.md) | Hard |
-|  | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |  | Easy |
-|  | 27 | [Remove Element](https://leetcode.com/problems/remove-element) |  | Easy |
+| :heavy_check_mark: | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [JavaScript](Array%2F26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy |
+| :heavy_check_mark: | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [JavaScript](Array%2F27.%20Remove%20Element.md) | Easy |
 |  | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |  | Easy |
 |  | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) |  | Medium |
 |  | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |  | Hard |
@@ -34,7 +34,7 @@
 |  | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) |  | Hard |
 |  | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |  | Medium |
 | :heavy_check_mark: | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JavaScript](Binary%20Search%2F34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) | Medium |
-|  | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) |  | Easy |
+| :heavy_check_mark: | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [JavaScript](Binary%20Search%2F35.%20Search%20Insert%20Position.md) | Easy |
 |  | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |  | Medium |
 | :heavy_check_mark: | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [JavaScript](Backtracking%2F37.%20Sudoku%20Solver.md) | Hard |
 | :heavy_check_mark: | 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [JavaScript](Funny%2F38.%20Count%20and%20Say.md) | Easy |
@@ -102,7 +102,7 @@
 | :heavy_check_mark: | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [JavaScript](Tree%2F100.%20Same%20Tree.md) | Easy |
 |  | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) |  | Easy |
 | :heavy_check_mark: | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [JavaScript](Tree%2F102.%20Binary%20Tree%20Level%20Order%20Traversal.md) | Medium |
-|  | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) |  | Medium |
+| :heavy_check_mark: | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [JavaScript](Tree%2F103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) | Medium |
 | :heavy_check_mark: | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [JavaScript](Tree%2F104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | Easy |
 | :heavy_check_mark: | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [JavaScript](Tree%2F105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) | Medium |
 | :heavy_check_mark: | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [JavaScript](Tree%2F106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md) | Medium |
@@ -143,8 +143,8 @@
 | :heavy_check_mark: | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [JavaScript](Linked%20List%2F141.%20Linked%20List%20Cycle.md) | Easy |
 | :heavy_check_mark: | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [JavaScript](Linked%20List%2F142.%20Linked%20List%20Cycle%20II.md) | Medium |
 | :heavy_check_mark: | 143 | [Reorder List](https://leetcode.com/problems/reorder-list) | [JavaScript](Linked%20List%2F143.%20Reorder%20List.md) | Medium |
-|  | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) |  | Medium |
-|  | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) |  | Hard |
+| :heavy_check_mark: | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [JavaScript](Tree%2F144.%20Binary%20Tree%20Preorder%20Traversal.md) | Medium |
+| :heavy_check_mark: | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [JavaScript](Tree%2F145.%20Binary%20Tree%20Postorder%20Traversal.md) | Hard |
 |  | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache) |  | Hard |
 | :heavy_check_mark: | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | [JavaScript](Linked%20List%2F147.%20Insertion%20Sort%20List.md) | Medium |
 | :heavy_check_mark: | 148 | [Sort List](https://leetcode.com/problems/sort-list) | [JavaScript](Linked%20List%2F148.%20Sort%20List.md) | Medium |
