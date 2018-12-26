@@ -29,10 +29,10 @@ const LEFT_ALIGN = ":---",
     RIGHT_ALIGN = "---:";
 var heads = {
     "Solved": CENTER_ALIGN,
-    "Number": CENTER_ALIGN,
+    "#": CENTER_ALIGN,
     "Title": LEFT_ALIGN,
     "Solution": LEFT_ALIGN,
-    "Difficulty": LEFT_ALIGN
+    "Difficulty": CENTER_ALIGN
 }
 
 function createMarkDownTableStr(heads, datas) {

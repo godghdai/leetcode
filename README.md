@@ -1,5 +1,5 @@
-| Solved | Number | Title | Solution | Difficulty |
-| :---: | :---: | :--- | :--- | :--- |
+| Solved | # | Title | Solution | Difficulty |
+| :---: | :---: | :--- | :--- | :---: |
 |  | 1 | [Two Sum](https://leetcode.com/problems/two-sum) |  | Easy |
 | :heavy_check_mark: | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [JavaScript](Linked%20List%2F2.%20Add%20Two%20Numbers.md) | Medium |
 | :heavy_check_mark: | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [JavaScript](3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium |
