@@ -25,32 +25,28 @@ function readDirSync(dirpath) {
 
 
 const LEFT_ALIGN = ":---",
-    CENTER_ALIGN = 1,
-    RIGHT_ALIGN = 2;
+    CENTER_ALIGN = ":---:",
+    RIGHT_ALIGN = "---:";
 var heads = {
     "Solved": CENTER_ALIGN,
     "Number": CENTER_ALIGN,
-    "Title": CENTER_ALIGN,
-    "Solution": CENTER_ALIGN,
-    "Difficulty": CENTER_ALIGN
+    "Title": LEFT_ALIGN,
+    "Solution": LEFT_ALIGN,
+    "Difficulty": LEFT_ALIGN
 }
 
 function createMarkDownTableStr(heads, datas) {
-    var join = arr => "| " + arr.join(" | ") + " |\r\n";
-    return `${join(Object.keys(heads))}${join(new Array(Object.keys(heads).length).fill("---"))}${datas.map(data=>{
+    var rowjoin = arr => "| " + arr.join(" | ") + " |\r\n";
+    return `${rowjoin(Object.keys(heads))}${rowjoin(Object.keys(heads).map(head=>heads[head]))}${datas.map(data=>{
         var res=[];
         res.push(filePathDic[data.number]?":heavy_check_mark:":"");
         res.push(data.number);
         res.push(`[${data.title.text}](${data.title.url})`);
         res.push(filePathDic[data.number]?`[JavaScript](${filePathDic[data.number]})`:'');
         res.push(data.difficulty);
-        return join(res);
+        return rowjoin(res);
     }).join("")}`;
 }
-var fs = require("fs");
-
-
-
 /*
 
 | Left-aligned | Center-aligned | Right-aligned |
