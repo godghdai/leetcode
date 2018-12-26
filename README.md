@@ -3,7 +3,7 @@
 | :heavy_check_mark: | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [JavaScript](Array%2F1.%20Two%20Sum.md) | Easy |
 | :heavy_check_mark: | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [JavaScript](Linked%20List%2F2.%20Add%20Two%20Numbers.md) | Medium |
 | :heavy_check_mark: | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [JavaScript](3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium |
-|  | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |  | Hard |
+| :heavy_check_mark: | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [JavaScript](Array%2F4.%20Median%20of%20Two%20Sorted%20Arrays.md) | Hard |
 |  | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |  | Medium |
 | :heavy_check_mark: | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [JavaScript](6.%20ZigZag%20Conversion.md) | Medium |
 |  | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) |  | Easy |
