@@ -1,6 +1,6 @@
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
-|  | 1 | [Two Sum](https://leetcode.com/problems/two-sum) |  | Easy |
+| :heavy_check_mark: | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [JavaScript](Array%2F1.%20Two%20Sum.md) | Easy |
 | :heavy_check_mark: | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [JavaScript](Linked%20List%2F2.%20Add%20Two%20Numbers.md) | Medium |
 | :heavy_check_mark: | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [JavaScript](3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) | Medium |
 |  | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |  | Hard |
@@ -16,7 +16,7 @@
 |  | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) |  | Easy |
 |  | 15 | [3Sum](https://leetcode.com/problems/3sum) |  | Medium |
 |  | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) |  | Medium |
-|  | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |  | Medium |
+| :heavy_check_mark: | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [JavaScript](Combinations%2F17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) | Medium |
 |  | 18 | [4Sum](https://leetcode.com/problems/4sum) |  | Medium |
 | :heavy_check_mark: | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [JavaScript](Linked%20List%2F19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) | Medium |
 | :heavy_check_mark: | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [JavaScript](Stack%2F20.%20Valid%20Parentheses.md) | Easy |
