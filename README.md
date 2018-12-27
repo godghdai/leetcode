@@ -36,7 +36,7 @@
 | :heavy_check_mark: | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JavaScript](Binary%20Search%2F34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) | Medium |
 | :heavy_check_mark: | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [JavaScript](Binary%20Search%2F35.%20Search%20Insert%20Position.md) | Easy |
 | :heavy_check_mark: | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [JavaScript](36.%20Valid%20Sudoku.md) | Medium |
-|  | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |  | Hard |
+| :heavy_check_mark: | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [JavaScript](Backtracking%2F37.%20Sudoku%20Solver.md) | Hard |
 | :heavy_check_mark: | 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [JavaScript](Funny%2F38.%20Count%20and%20Say.md) | Easy |
 |  | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) |  | Medium |
 |  | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |  | Medium |
