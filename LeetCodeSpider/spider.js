@@ -56,21 +56,7 @@ function createMarkDownTableStr(heads, datas) {
 
 */
 
-/**
- * @param {number[]} height
- * @return {number}
- */
-var maxArea = function(height) {
-    var maxarea = 0, l = 0, r = height.length - 1;
-     while (l < r) {
-         maxarea = Math.max(maxarea, Math.min(height[l], height[r]) * (r - l));
-         if (height[l] < height[r])
-            l++;
-         else
-            r--;
-     }
-     return maxarea;
-};
+
 
 
 ;
@@ -92,7 +78,7 @@ var maxArea = function(height) {
         return Q(".question-list-table .reactable-data tr").map(tr => {
             var innerText = title => tr.querySelector("td:nth-child(" + indexDic[title] + ")").innerText.trim();
             return {
-                'status':tr.querySelector("td:nth-child(1)").getAttribute("value")||"dd", 
+                'status': tr.querySelector("td:nth-child(1)").getAttribute("value") || "dd",
                 "number": +innerText("#"),
                 "title": {
                     "text": tr.querySelector("td:nth-child(" + indexDic["Title"] + ") a").innerText.trim(),
@@ -105,6 +91,6 @@ var maxArea = function(height) {
     console.log(questions[0]);
 
     fs.writeFileSync(markDownSavePath, createMarkDownTableStr(heads, questions));
- 
+
     await browser.close();
 })();

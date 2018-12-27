@@ -6,9 +6,9 @@
 | :heavy_check_mark: | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [JavaScript](Array%2F4.%20Median%20of%20Two%20Sorted%20Arrays.md) | Hard |
 |  | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |  | Medium |
 | :heavy_check_mark: | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [JavaScript](6.%20ZigZag%20Conversion.md) | Medium |
-|  | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) |  | Easy |
+| :heavy_check_mark: | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [JavaScript](Math%2F7.%20Reverse%20Integer.md) | Easy |
 | :heavy_check_mark: | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [JavaScript](8.%20String%20to%20Integer%20(atoi).md) | Medium |
-|  | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) |  | Easy |
+| :heavy_check_mark: | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [JavaScript](Math%2F9.%20Palindrome%20Number.md) | Easy |
 |  | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |  | Hard |
 | :heavy_check_mark: | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [JavaScript](Two%20Pointers%2F11.%20Container%20With%20Most%20Water.md) | Medium |
 | :heavy_check_mark: | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [JavaScript](12.%20Integer%20to%20Roman.md) | Medium |
@@ -35,8 +35,8 @@
 |  | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |  | Medium |
 | :heavy_check_mark: | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JavaScript](Binary%20Search%2F34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) | Medium |
 | :heavy_check_mark: | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [JavaScript](Binary%20Search%2F35.%20Search%20Insert%20Position.md) | Easy |
-|  | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |  | Medium |
-| :heavy_check_mark: | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [JavaScript](Backtracking%2F37.%20Sudoku%20Solver.md) | Hard |
+| :heavy_check_mark: | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [JavaScript](36.%20Valid%20Sudoku.md) | Medium |
+|  | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |  | Hard |
 | :heavy_check_mark: | 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [JavaScript](Funny%2F38.%20Count%20and%20Say.md) | Easy |
 |  | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) |  | Medium |
 |  | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |  | Medium |
@@ -57,7 +57,7 @@
 | :heavy_check_mark: | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | [JavaScript](Funny%2F55.%20Jump%20Game.md) | Medium |
 |  | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |  | Medium |
 |  | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) |  | Hard |
-|  | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) |  | Easy |
+| :heavy_check_mark: | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [JavaScript](String%2F58.%20Length%20of%20Last%20Word.md) | Easy |
 | :heavy_check_mark: | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [JavaScript](59.%20Spiral%20Matrix%20II.md) | Medium |
 |  | 60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence) |  | Medium |
 | :heavy_check_mark: | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | [JavaScript](Linked%20List%2F61.%20Rotate%20List.md) | Medium |
@@ -93,7 +93,7 @@
 |  | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways) |  | Medium |
 | :heavy_check_mark: | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [JavaScript](Linked%20List%2F92.%20Reverse%20Linked%20List%20II.md) | Medium |
 |  | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) |  | Medium |
-|  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) |  | Medium |
+| :heavy_check_mark: | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [JavaScript](Tree%2F94.%20Binary%20Tree%20Inorder%20Traversal.md) | Medium |
 | :heavy_check_mark: | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [JavaScript](Tree%2F95.%20Unique%20Binary%20Search%20Trees%20II.md) | Medium |
 |  | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) |  | Medium |
 |  | 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string) |  | Hard |
@@ -656,7 +656,7 @@
 |  | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) |  | Easy |
 | :heavy_check_mark: | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list) | [JavaScript](Linked%20List%2F707.%20Design%20Linked%20List.md) | Easy |
 |  | 708 | [Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list) |  | Medium |
-|  | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) |  | Easy |
+| :heavy_check_mark: | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [JavaScript](String%2F709.%20To%20Lower%20Case.md) | Easy |
 |  | 710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist) |  | Hard |
 |  | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii) |  | Hard |
 |  | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) |  | Medium |
