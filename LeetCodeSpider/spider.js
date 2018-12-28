@@ -61,7 +61,7 @@ function createTableTitle(datas){
 function createMarkDown(heads, datas){
     var title=createTableTitle(datas);
     var tableStr=createMarkDownTableStr(heads,datas);
-    return title+"\r\n"+tableStr;
+    return title+"\r\n"+tableStr+"\r\n";
 }
 
 
