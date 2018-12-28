@@ -13,7 +13,7 @@
 | :heavy_check_mark: | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [JavaScript](Two%20Pointers%2F11.%20Container%20With%20Most%20Water.md) | Medium |
 | :heavy_check_mark: | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [JavaScript](12.%20Integer%20to%20Roman.md) | Medium |
 | :heavy_check_mark: | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [JavaScript](13.%20Roman%20to%20Integer.md) | Easy |
-|  | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) |  | Easy |
+| :heavy_check_mark: | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [JavaScript](String%2F14.%20Longest%20Common%20Prefix.md) | Easy |
 |  | 15 | [3Sum](https://leetcode.com/problems/3sum) |  | Medium |
 |  | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) |  | Medium |
 | :heavy_check_mark: | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [JavaScript](Combinations%2F17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) | Medium |
@@ -72,7 +72,7 @@
 | :heavy_check_mark: | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [JavaScript](Dynamic%20Programming%2F70.%20Climbing%20Stairs.md) | Easy |
 |  | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) |  | Medium |
 |  | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance) |  | Hard |
-|  | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |  | Medium |
+| :heavy_check_mark: | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [JavaScript](Array%2F73.%20Set%20Matrix%20Zeroes.md) | Medium |
 | :heavy_check_mark: | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [JavaScript](Binary%20Search%2F74.%20Search%20a%202D%20Matrix.md) | Medium |
 | :heavy_check_mark: | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [JavaScript](Sort%2F75.%20Sort%20Colors.md) | Medium |
 |  | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |  | Hard |
@@ -164,7 +164,7 @@
 |  | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) |  | Medium |
 |  | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges) |  | Medium |
 |  | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap) |  | Hard |
-|  | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) |  | Medium |
+| :heavy_check_mark: | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | [JavaScript](165.%20Compare%20Version%20Numbers.md) | Medium |
 |  | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |  | Medium |
 | :heavy_check_mark: | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [JavaScript](Binary%20Search%2F167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) | Easy |
 |  | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |  | Easy |
