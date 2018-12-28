@@ -1,4 +1,5 @@
 **151/911** Solved - Easy **253** Medium **461** Hard **197**
+
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
 | :heavy_check_mark: | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [JavaScript](Array%2F1.%20Two%20Sum.md) | Easy |
@@ -912,4 +913,3 @@
 |  | 962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp) |  | Medium |
 |  | 963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii) |  | Medium |
 |  | 964 | [Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number) |  | Hard |
-
