@@ -47,6 +47,24 @@ function createMarkDownTableStr(heads, datas) {
         return rowjoin(res);
     }).join("")}`;
 }
+
+function createTableTitle(datas){
+    var countDic={"Easy":0,"Medium":0,"Hard":0};
+    var solved=0;
+    datas.forEach(data=>{
+        countDic[data.difficulty]+=1;
+        if(filePathDic[data.number]) solved++;
+    });
+    return `**${solved}/${datas.length}** Solved - Easy **${countDic["Easy"]}** Medium **${countDic["Medium"]}** Hard **${countDic["Hard"]}**`;
+}
+
+function createMarkDown(heads, datas){
+    var title=createTableTitle(datas);
+    var tableStr=createMarkDownTableStr(heads,datas);
+    return title+"\r\n"+tableStr;
+}
+
+
 /*
 
 | Left-aligned | Center-aligned | Right-aligned |
@@ -55,8 +73,6 @@ function createMarkDownTableStr(heads, datas) {
 | git diff     | git diff       | git diff      |
 
 */
-
-
 
 
 ;
@@ -88,9 +104,11 @@ function createMarkDownTableStr(heads, datas) {
             }
         });
     });
+
+    
     console.log(questions[0]);
 
-    fs.writeFileSync(markDownSavePath, createMarkDownTableStr(heads, questions));
+    fs.writeFileSync(markDownSavePath, createMarkDown(heads, questions));
 
     await browser.close();
 })();

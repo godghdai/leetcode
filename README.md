@@ -1,3 +1,4 @@
+**151/911** Solved - Easy **253** Medium **461** Hard **197**
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
 | :heavy_check_mark: | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [JavaScript](Array%2F1.%20Two%20Sum.md) | Easy |
@@ -111,7 +112,7 @@
 | :heavy_check_mark: | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [JavaScript](Linked%20List%2F109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md) | Medium |
 | :heavy_check_mark: | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [JavaScript](Tree%2F110.%20Balanced%20Binary%20Tree.md) | Easy |
 | :heavy_check_mark: | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [JavaScript](Tree%2F111.%20Minimum%20Depth%20of%20Binary%20Tree.md) | Easy |
-|  | 112 | [Path Sum](https://leetcode.com/problems/path-sum) |  | Easy |
+| :heavy_check_mark: | 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [JavaScript](Tree%2F112.%20Path%20Sum.md) | Easy |
 | :heavy_check_mark: | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | [JavaScript](Tree%2F113.%20Path%20Sum%20II.md) | Medium |
 | :heavy_check_mark: | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [JavaScript](Tree%2F114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) | Medium |
 |  | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) |  | Hard |
@@ -167,10 +168,10 @@
 | :heavy_check_mark: | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | [JavaScript](165.%20Compare%20Version%20Numbers.md) | Medium |
 |  | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |  | Medium |
 | :heavy_check_mark: | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [JavaScript](Binary%20Search%2F167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) | Easy |
-|  | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |  | Easy |
+| :heavy_check_mark: | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [JavaScript](Math%2F168.%20Excel%20Sheet%20Column%20Title.md) | Easy |
 |  | 169 | [Majority Element](https://leetcode.com/problems/majority-element) |  | Easy |
 |  | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design) |  | Easy |
-|  | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) |  | Easy |
+| :heavy_check_mark: | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [JavaScript](Math%2F171.%20Excel%20Sheet%20Column%20Number.md) | Easy |
 |  | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) |  | Easy |
 | :heavy_check_mark: | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [JavaScript](Tree%2F173.%20Binary%20Search%20Tree%20Iterator.md) | Medium |
 |  | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game) |  | Hard |
@@ -178,7 +179,7 @@
 |  | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) |  | Medium |
 |  | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) |  | Medium |
 |  | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) |  | Hard |
-|  | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) |  | Easy |
+| :heavy_check_mark: | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [JavaScript](Array%2F189.%20Rotate%20Array.md) | Easy |
 | :heavy_check_mark: | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [JavaScript](Bit%20Manipulation%2F190.%20Reverse%20Bits.md) | Easy |
 | :heavy_check_mark: | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [JavaScript](Bit%20Manipulation%2F191.%20Number%20of%201%20Bits.md) | Easy |
 |  | 198 | [House Robber](https://leetcode.com/problems/house-robber) |  | Easy |
@@ -215,7 +216,7 @@
 |  | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) |  | Medium |
 | :heavy_check_mark: | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [JavaScript](Tree%2F230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | Medium |
 | :heavy_check_mark: | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [JavaScript](Funny%2F231.%20Power%20of%20Two.md) | Easy |
-|  | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) |  | Easy |
+| :heavy_check_mark: | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [JavaScript](Stack%2F232.%20Implement%20Queue%20using%20Stacks.md) | Easy |
 |  | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one) |  | Hard |
 | :heavy_check_mark: | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [JavaScript](Linked%20List%2F234.%20Palindrome%20Linked%20List.md) | Easy |
 | :heavy_check_mark: | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [JavaScript](Tree%2F235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) | Easy |
