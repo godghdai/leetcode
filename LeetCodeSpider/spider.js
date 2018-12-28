@@ -52,10 +52,12 @@ function createTableTitle(datas){
     var countDic={"Easy":0,"Medium":0,"Hard":0};
     var solved=0;
     datas.forEach(data=>{
-        countDic[data.difficulty]+=1;
-        if(filePathDic[data.number]) solved++;
+        if(filePathDic[data.number]){
+            countDic[data.difficulty]+=1;
+            solved++;
+        } 
     });
-    return `**${solved}/${datas.length}** Solved - Easy **${countDic["Easy"]}** Medium **${countDic["Medium"]}** Hard **${countDic["Hard"]}**`;
+    return `\`**${solved}/${datas.length}** Solved\` - \`Easy **${countDic["Easy"]}**\` \`Medium **${countDic["Medium"]}**\` \`Hard **${countDic["Hard"]}**\``;
 }
 
 function createMarkDown(heads, datas){

@@ -1,4 +1,4 @@
-**151/911** Solved - Easy **253** Medium **461** Hard **197**
+`**151/911** Solved` - `Easy **72**` `Medium **72**` `Hard **7**`
 
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
