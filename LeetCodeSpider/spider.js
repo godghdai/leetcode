@@ -57,7 +57,7 @@ function createTableTitle(datas){
             solved++;
         } 
     });
-    return `\`**${solved}/${datas.length}** Solved\` - \`Easy **${countDic["Easy"]}**\` \`Medium **${countDic["Medium"]}**\` \`Hard **${countDic["Hard"]}**\``;
+    return `\`${solved}/${datas.length} Solved\` - \`Easy ${countDic["Easy"]}\` \`Medium ${countDic["Medium"]}\` \`Hard ${countDic["Hard"]}\``;
 }
 
 function createMarkDown(heads, datas){
