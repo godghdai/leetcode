@@ -1,4 +1,4 @@
-`153/915 Solved` - `Easy 72` `Medium 74` `Hard 7`
+`155/915 Solved` - `Easy 73` `Medium 75` `Hard 7`
 
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
@@ -17,7 +17,7 @@
 | :heavy_check_mark: | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [JavaScript](13.%20Roman%20to%20Integer.md) | Easy |
 | :heavy_check_mark: | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [JavaScript](String%2F14.%20Longest%20Common%20Prefix.md) | Easy |
 | :heavy_check_mark: | 15 | [3Sum](https://leetcode.com/problems/3sum) | [JavaScript](Two%20Pointers%2F15.%203Sum.md) | Medium |
-|  | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) |  | Medium |
+| :heavy_check_mark: | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | [JavaScript](Two%20Pointers%2F16.%203Sum%20Closest.md) | Medium |
 | :heavy_check_mark: | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [JavaScript](Combinations%2F17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) | Medium |
 | :heavy_check_mark: | 18 | [4Sum](https://leetcode.com/problems/4sum) | [JavaScript](Two%20Pointers%2F18.%204Sum.md) | Medium |
 | :heavy_check_mark: | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [JavaScript](Linked%20List%2F19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) | Medium |
@@ -29,7 +29,7 @@
 | :heavy_check_mark: | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [JavaScript](Linked%20List%2F25.%20Reverse%20Nodes%20in%20k-Group.md) | Hard |
 | :heavy_check_mark: | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [JavaScript](Array%2F26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy |
 | :heavy_check_mark: | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [JavaScript](Array%2F27.%20Remove%20Element.md) | Easy |
-|  | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) |  | Easy |
+| :heavy_check_mark: | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [JavaScript](String%2F28.%20Implement%20strStr().md) | Easy |
 |  | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) |  | Medium |
 |  | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |  | Hard |
 |  | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) |  | Medium |
