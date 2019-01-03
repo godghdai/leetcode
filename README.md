@@ -1,4 +1,4 @@
-`155/915 Solved` - `Easy 73` `Medium 75` `Hard 7`
+`157/915 Solved` - `Easy 73` `Medium 76` `Hard 8`
 
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
@@ -42,7 +42,7 @@
 | :heavy_check_mark: | 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [JavaScript](Funny%2F38.%20Count%20and%20Say.md) | Easy |
 |  | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) |  | Medium |
 |  | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |  | Medium |
-|  | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) |  | Hard |
+| :heavy_check_mark: | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [JavaScript](Array%2F41.%20First%20Missing%20Positive.md) | Hard |
 |  | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |  | Hard |
 |  | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) |  | Medium |
 |  | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |  | Hard |
@@ -90,7 +90,7 @@
 | :heavy_check_mark: | 86 | [Partition List](https://leetcode.com/problems/partition-list) | [JavaScript](Linked%20List%2F86.%20Partition%20List.md) | Medium |
 |  | 87 | [Scramble String](https://leetcode.com/problems/scramble-string) |  | Hard |
 | :heavy_check_mark: | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [JavaScript](Array%2F88.%20Merge%20Sorted%20Array.md) | Easy |
-|  | 89 | [Gray Code](https://leetcode.com/problems/gray-code) |  | Medium |
+| :heavy_check_mark: | 89 | [Gray Code](https://leetcode.com/problems/gray-code) | [JavaScript](Bit%20Manipulation%2F89.%20Gray%20Code.md) | Medium |
 |  | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii) |  | Medium |
 |  | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways) |  | Medium |
 | :heavy_check_mark: | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [JavaScript](Linked%20List%2F92.%20Reverse%20Linked%20List%20II.md) | Medium |
