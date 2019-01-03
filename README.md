@@ -1,4 +1,4 @@
-`151/911 Solved` - `Easy 72` `Medium 72` `Hard 7`
+`153/915 Solved` - `Easy 72` `Medium 74` `Hard 7`
 
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
@@ -16,10 +16,10 @@
 | :heavy_check_mark: | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [JavaScript](12.%20Integer%20to%20Roman.md) | Medium |
 | :heavy_check_mark: | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [JavaScript](13.%20Roman%20to%20Integer.md) | Easy |
 | :heavy_check_mark: | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [JavaScript](String%2F14.%20Longest%20Common%20Prefix.md) | Easy |
-|  | 15 | [3Sum](https://leetcode.com/problems/3sum) |  | Medium |
+| :heavy_check_mark: | 15 | [3Sum](https://leetcode.com/problems/3sum) | [JavaScript](Two%20Pointers%2F15.%203Sum.md) | Medium |
 |  | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) |  | Medium |
 | :heavy_check_mark: | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [JavaScript](Combinations%2F17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) | Medium |
-|  | 18 | [4Sum](https://leetcode.com/problems/4sum) |  | Medium |
+| :heavy_check_mark: | 18 | [4Sum](https://leetcode.com/problems/4sum) | [JavaScript](Two%20Pointers%2F18.%204Sum.md) | Medium |
 | :heavy_check_mark: | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [JavaScript](Linked%20List%2F19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) | Medium |
 | :heavy_check_mark: | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [JavaScript](Stack%2F20.%20Valid%20Parentheses.md) | Easy |
 | :heavy_check_mark: | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [JavaScript](Linked%20List%2F21.%20Merge%20Two%20Sorted%20Lists.md) | Easy |
@@ -913,3 +913,7 @@
 |  | 962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp) |  | Medium |
 |  | 963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii) |  | Medium |
 |  | 964 | [Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number) |  | Hard |
+|  | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) |  | Easy |
+|  | 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) |  | Medium |
+|  | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences) |  | Medium |
+|  | 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) |  | Hard |
