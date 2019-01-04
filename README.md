@@ -1,4 +1,4 @@
-`160/915 Solved` - `Easy 73` `Medium 79` `Hard 8`
+`163/915 Solved` - `Easy 73` `Medium 82` `Hard 8`
 
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
@@ -91,7 +91,7 @@
 |  | 87 | [Scramble String](https://leetcode.com/problems/scramble-string) |  | Hard |
 | :heavy_check_mark: | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [JavaScript](Array%2F88.%20Merge%20Sorted%20Array.md) | Easy |
 | :heavy_check_mark: | 89 | [Gray Code](https://leetcode.com/problems/gray-code) | [JavaScript](Bit%20Manipulation%2F89.%20Gray%20Code.md) | Medium |
-|  | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii) |  | Medium |
+| :heavy_check_mark: | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii) | [JavaScript](Combinations%2F90.%20Subsets%20II.md) | Medium |
 |  | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways) |  | Medium |
 | :heavy_check_mark: | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [JavaScript](Linked%20List%2F92.%20Reverse%20Linked%20List%20II.md) | Medium |
 |  | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) |  | Medium |
@@ -130,7 +130,7 @@
 |  | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |  | Hard |
 |  | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) |  | Medium |
 |  | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) |  | Hard |
-|  | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) |  | Medium |
+| :heavy_check_mark: | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [JavaScript](Tree%2F129.%20Sum%20Root%20to%20Leaf%20Numbers.md) | Medium |
 | :heavy_check_mark: | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | [JavaScript](Backtracking%2F130.%20Surrounded%20Regions.md) | Medium |
 |  | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) |  | Medium |
 |  | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii) |  | Hard |
@@ -201,7 +201,7 @@
 |  | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii) |  | Medium |
 |  | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |  | Hard |
 | :heavy_check_mark: | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [JavaScript](Heap%2F215.%20Kth%20Largest%20Element%20in%20an%20Array.md) | Medium |
-|  | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) |  | Medium |
+| :heavy_check_mark: | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | [JavaScript](Combinations%2F216.%20Combination%20Sum%20III.md) | Medium |
 |  | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) |  | Easy |
 |  | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |  | Hard |
 | :heavy_check_mark: | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [JavaScript](Array%2F219.%20Contains%20Duplicate%20II.md) | Easy |
