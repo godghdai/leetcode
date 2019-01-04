@@ -1,4 +1,4 @@
-`157/915 Solved` - `Easy 73` `Medium 76` `Hard 8`
+`160/915 Solved` - `Easy 73` `Medium 79` `Hard 8`
 
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
@@ -40,15 +40,15 @@
 | :heavy_check_mark: | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [JavaScript](36.%20Valid%20Sudoku.md) | Medium |
 | :heavy_check_mark: | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [JavaScript](Backtracking%2F37.%20Sudoku%20Solver.md) | Hard |
 | :heavy_check_mark: | 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [JavaScript](Funny%2F38.%20Count%20and%20Say.md) | Easy |
-|  | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) |  | Medium |
-|  | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |  | Medium |
+| :heavy_check_mark: | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [JavaScript](Combinations%2F39.%20Combination%20Sum.md) | Medium |
+| :heavy_check_mark: | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [JavaScript](Combinations%2F40.%20Combination%20Sum%20II.md) | Medium |
 | :heavy_check_mark: | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [JavaScript](Array%2F41.%20First%20Missing%20Positive.md) | Hard |
 |  | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |  | Hard |
 |  | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) |  | Medium |
 |  | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |  | Hard |
 |  | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) |  | Hard |
-| :heavy_check_mark: | 46 | [Permutations](https://leetcode.com/problems/permutations) | [JavaScript](46.%20Permutations.md) | Medium |
-|  | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) |  | Medium |
+| :heavy_check_mark: | 46 | [Permutations](https://leetcode.com/problems/permutations) | [JavaScript](Permutations%2F46.%20Permutations.md) | Medium |
+| :heavy_check_mark: | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [JavaScript](Permutations%2F47.%20Permutations%20II.md) | Medium |
 |  | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) |  | Medium |
 | :heavy_check_mark: | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [JavaScript](Sort%2F49.%20Group%20Anagrams.md) | Medium |
 |  | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |  | Medium |
@@ -137,7 +137,7 @@
 |  | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph) |  | Medium |
 |  | 134 | [Gas Station](https://leetcode.com/problems/gas-station) |  | Medium |
 |  | 135 | [Candy](https://leetcode.com/problems/candy) |  | Hard |
-| :heavy_check_mark: | 136 | [Single Number](https://leetcode.com/problems/single-number) | [JavaScript](136.%20Single%20Number.md) | Easy |
+| :heavy_check_mark: | 136 | [Single Number](https://leetcode.com/problems/single-number) | [JavaScript](Bit%20Manipulation%2F136.%20Single%20Number.md) | Easy |
 |  | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) |  | Medium |
 |  | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |  | Medium |
 |  | 139 | [Word Break](https://leetcode.com/problems/word-break) |  | Medium |
