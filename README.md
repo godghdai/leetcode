@@ -1,4 +1,4 @@
-`163/915 Solved` - `Easy 73` `Medium 82` `Hard 8`
+`169/915 Solved` - `Easy 77` `Medium 84` `Hard 8`
 
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
@@ -202,15 +202,15 @@
 |  | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |  | Hard |
 | :heavy_check_mark: | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [JavaScript](Heap%2F215.%20Kth%20Largest%20Element%20in%20an%20Array.md) | Medium |
 | :heavy_check_mark: | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | [JavaScript](Combinations%2F216.%20Combination%20Sum%20III.md) | Medium |
-|  | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) |  | Easy |
+| :heavy_check_mark: | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [JavaScript](Array%2F217.%20Contains%20Duplicate.md) | Easy |
 |  | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |  | Hard |
 | :heavy_check_mark: | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [JavaScript](Array%2F219.%20Contains%20Duplicate%20II.md) | Easy |
-|  | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) |  | Medium |
+| :heavy_check_mark: | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | [JavaScript](Array%2F220.%20Contains%20Duplicate%20III.md) | Medium |
 |  | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square) |  | Medium |
-|  | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) |  | Medium |
+| :heavy_check_mark: | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [JavaScript](Tree%2F222.%20Count%20Complete%20Tree%20Nodes.md) | Medium |
 |  | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area) |  | Medium |
 |  | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) |  | Hard |
-|  | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) |  | Easy |
+| :heavy_check_mark: | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [JavaScript](Stack%2F225.%20Implement%20Stack%20using%20Queues.md) | Easy |
 | :heavy_check_mark: | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [JavaScript](Tree%2F226.%20Invert%20Binary%20Tree.md) | Easy |
 |  | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) |  | Medium |
 |  | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |  | Medium |
@@ -243,7 +243,7 @@
 |  | 255 | [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree) |  | Medium |
 |  | 256 | [Paint House](https://leetcode.com/problems/paint-house) |  | Easy |
 |  | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) |  | Easy |
-|  | 258 | [Add Digits](https://leetcode.com/problems/add-digits) |  | Easy |
+| :heavy_check_mark: | 258 | [Add Digits](https://leetcode.com/problems/add-digits) | [JavaScript](Math%2F258.%20Add%20Digits.md) | Easy |
 |  | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller) |  | Medium |
 |  | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii) |  | Medium |
 |  | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) |  | Medium |
@@ -355,7 +355,7 @@
 |  | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) |  | Medium |
 |  | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list) |  | Medium |
 |  | 370 | [Range Addition](https://leetcode.com/problems/range-addition) |  | Medium |
-|  | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) |  | Easy |
+| :heavy_check_mark: | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | [JavaScript](Bit%20Manipulation%2F371.%20Sum%20of%20Two%20Integers.md) | Easy |
 |  | 372 | [Super Pow](https://leetcode.com/problems/super-pow) |  | Medium |
 |  | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) |  | Medium |
 | :heavy_check_mark: | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [JavaScript](Funny%2F374.%20Guess%20Number%20Higher%20or%20Lower.md) | Easy |
