@@ -32,6 +32,7 @@ var heads = {
     "Num": CENTER_ALIGN,
     "Title": LEFT_ALIGN,
     "Solution": LEFT_ALIGN,
+    "Acceptance": CENTER_ALIGN,
     "Difficulty": CENTER_ALIGN
 }
 
@@ -43,6 +44,7 @@ function createMarkDownTableStr(heads, datas) {
         res.push(data.number);
         res.push(`[${data.title.text}](${data.title.url})`);
         res.push(filePathDic[data.number]?`[JavaScript](${filePathDic[data.number]})`:'');
+        res.push(data.acceptance);        
         res.push(data.difficulty);
         return rowjoin(res);
     }).join("")}`;
@@ -103,6 +105,7 @@ function createMarkDown(heads, datas){
                     "url": tr.querySelector("td:nth-child(" + indexDic["Title"] + ") a").href
                 },
                 "difficulty": innerText("Difficulty"),
+                "acceptance": innerText("Acceptance")
             }
         });
     });
