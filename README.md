@@ -1,4 +1,4 @@
-`169/915 Solved` - `Easy 77` `Medium 84` `Hard 8`
+`173/915 Solved` - `Easy 80` `Medium 85` `Hard 8`
 
 |   | Num | Title | Solution | Difficulty |
 | :---: | :---: | :--- | :--- | :---: |
@@ -54,7 +54,7 @@
 |  | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) |  | Medium |
 |  | 51 | [N-Queens](https://leetcode.com/problems/n-queens) |  | Hard |
 |  | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) |  | Hard |
-|  | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |  | Easy |
+| :heavy_check_mark: | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [JavaScript](Array%2F53.%20Maximum%20Subarray.md) | Easy |
 | :heavy_check_mark: | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | [JavaScript](54.%20Spiral%20Matrix.md) | Medium |
 | :heavy_check_mark: | 55 | [Jump Game](https://leetcode.com/problems/jump-game) | [JavaScript](Funny%2F55.%20Jump%20Game.md) | Medium |
 |  | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |  | Medium |
@@ -70,7 +70,7 @@
 | :heavy_check_mark: | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [JavaScript](Array%2F66.%20Plus%20One.md) | Easy |
 | :heavy_check_mark: | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [JavaScript](Funny%2F67.%20Add%20Binary.md) | Easy |
 |  | 68 | [Text Justification](https://leetcode.com/problems/text-justification) |  | Hard |
-|  | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) |  | Easy |
+| :heavy_check_mark: | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [JavaScript](Math%2F69.%20Sqrt(x).md) | Easy |
 | :heavy_check_mark: | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [JavaScript](Dynamic%20Programming%2F70.%20Climbing%20Stairs.md) | Easy |
 |  | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) |  | Medium |
 |  | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance) |  | Hard |
@@ -122,7 +122,7 @@
 | :heavy_check_mark: | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [JavaScript](Funny%2F118.%20Pascal's%20Triangle.md) | Easy |
 | :heavy_check_mark: | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [JavaScript](Funny%2F119.%20Pascal's%20Triangle%20II.md) | Easy |
 | :heavy_check_mark: | 120 | [Triangle](https://leetcode.com/problems/triangle) | [JavaScript](Dynamic%20Programming%2F120.%20Triangle.md) | Medium |
-|  | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |  | Easy |
+| :heavy_check_mark: | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [JavaScript](Array%2F121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | Easy |
 |  | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |  | Easy |
 |  | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) |  | Hard |
 |  | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) |  | Hard |
@@ -213,7 +213,7 @@
 | :heavy_check_mark: | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [JavaScript](Stack%2F225.%20Implement%20Stack%20using%20Queues.md) | Easy |
 | :heavy_check_mark: | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [JavaScript](Tree%2F226.%20Invert%20Binary%20Tree.md) | Easy |
 |  | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) |  | Medium |
-|  | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) |  | Medium |
+| :heavy_check_mark: | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [JavaScript](Array%2F228.%20Summary%20Ranges.md) | Medium |
 |  | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) |  | Medium |
 | :heavy_check_mark: | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [JavaScript](Tree%2F230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) | Medium |
 | :heavy_check_mark: | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [JavaScript](Funny%2F231.%20Power%20of%20Two.md) | Easy |
