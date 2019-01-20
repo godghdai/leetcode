@@ -1,4 +1,4 @@
-`228/928 Solved` - `Easy 97` `Medium 112` `Hard 19`
+`229/928 Solved` - `Easy 97` `Medium 113` `Hard 19`
 
 |   | Num | Title | Solution | Acceptance | Difficulty |
 | :---: | :---: | :--- | :--- | :---: | :---: |
@@ -44,7 +44,7 @@
 | :heavy_check_mark: | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [JavaScript](Combinations%2F40.%20Combination%20Sum%20II.md) | 39.4% | Medium |
 | :heavy_check_mark: | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [JavaScript](Array%2F41.%20First%20Missing%20Positive.md) | 27.9% | Hard |
 |  | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |  | 41.1% | Hard |
-|  | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) |  | 29.6% | Medium |
+| :heavy_check_mark: | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [JavaScript](Math%2F43.%20Multiply%20Strings.md) | 29.6% | Medium |
 |  | 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |  | 22.2% | Hard |
 | :heavy_check_mark: | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [JavaScript](Dynamic%20Programming%2F45.%20Jump%20Game%20II.md) | 26.9% | Hard |
 | :heavy_check_mark: | 46 | [Permutations](https://leetcode.com/problems/permutations) | [JavaScript](Permutations%2F46.%20Permutations.md) | 52.5% | Medium |
@@ -197,7 +197,7 @@
 | :heavy_check_mark: | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [JavaScript](Two%20Pointers%2F209.%20Minimum%20Size%20Subarray%20Sum.md) | 34.0% | Medium |
 |  | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) |  | 33.1% | Medium |
 |  | 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design) |  | 28.5% | Medium |
-|  | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii) |  | 27.0% | Hard |
+|  | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii) |  | 27.1% | Hard |
 | :heavy_check_mark: | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii) | [JavaScript](Dynamic%20Programming%2F213.%20House%20Robber%20II.md) | 35.0% | Medium |
 |  | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) |  | 26.6% | Hard |
 | :heavy_check_mark: | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [JavaScript](Heap%2F215.%20Kth%20Largest%20Element%20in%20an%20Array.md) | 45.0% | Medium |
@@ -221,7 +221,7 @@
 |  | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one) |  | 29.7% | Hard |
 | :heavy_check_mark: | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [JavaScript](Linked%20List%2F234.%20Palindrome%20Linked%20List.md) | 35.0% | Easy |
 | :heavy_check_mark: | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [JavaScript](Tree%2F235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) | 42.8% | Easy |
-| :heavy_check_mark: | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [JavaScript](Tree%2F236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) | 34.4% | Medium |
+| :heavy_check_mark: | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [JavaScript](Tree%2F236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) | 34.5% | Medium |
 | :heavy_check_mark: | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [JavaScript](Linked%20List%2F237.%20Delete%20Node%20in%20a%20Linked%20List.md) | 51.2% | Easy |
 |  | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) |  | 53.2% | Medium |
 |  | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |  | 36.5% | Hard |
@@ -415,7 +415,7 @@
 |  | 428 | [Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree) |  | 51.5% | Hard |
 |  | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) |  | 57.7% | Easy |
 |  | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) |  | 39.2% | Medium |
-|  | 431 | [Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree) |  | 58.6% | Hard |
+|  | 431 | [Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree) |  | 58.7% | Hard |
 |  | 432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure) |  | 28.8% | Hard |
 |  | 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation) |  | 37.0% | Medium |
 |  | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) |  | 36.6% | Easy |
@@ -481,8 +481,8 @@
 | :heavy_check_mark: | 494 | [Target Sum](https://leetcode.com/problems/target-sum) | [JavaScript](Dynamic%20Programming%2F494.%20Target%20Sum.md) | 44.6% | Medium |
 |  | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) |  | 51.8% | Medium |
 |  | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) |  | 58.2% | Easy |
-|  | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles) |  | 34.9% | Medium |
-|  | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse) |  | 44.7% | Medium |
+|  | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles) |  | 35.0% | Medium |
+|  | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse) |  | 44.8% | Medium |
 |  | 499 | [The Maze III](https://leetcode.com/problems/the-maze-iii) |  | 36.2% | Hard |
 |  | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) |  | 61.4% | Easy |
 |  | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) |  | 38.6% | Easy |
@@ -493,7 +493,7 @@
 |  | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) |  | 47.7% | Easy |
 |  | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) |  | 33.0% | Easy |
 | :heavy_check_mark: | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | [JavaScript](Tree%2F508.%20Most%20Frequent%20Subtree%20Sum.md) | 53.5% | Medium |
-| :heavy_check_mark: | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [JavaScript](Array%2F509.%20Fibonacci%20Number.md) | 66.7% | Easy |
+| :heavy_check_mark: | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [JavaScript](Array%2F509.%20Fibonacci%20Number.md) | 66.6% | Easy |
 | :heavy_check_mark: | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | [JavaScript](Tree%2F513.%20Find%20Bottom%20Left%20Tree%20Value.md) | 57.6% | Medium |
 |  | 514 | [Freedom Trail](https://leetcode.com/problems/freedom-trail) |  | 40.0% | Hard |
 | :heavy_check_mark: | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [JavaScript](Tree%2F515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md) | 57.0% | Medium |
@@ -539,7 +539,7 @@
 |  | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) |  | 62.6% | Easy |
 |  | 558 | [Quad Tree Intersection](https://leetcode.com/problems/quad-tree-intersection) |  | 39.2% | Easy |
 |  | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) |  | 63.9% | Easy |
-|  | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |  | 41.1% | Medium |
+|  | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |  | 41.2% | Medium |
 |  | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) |  | 68.0% | Easy |
 |  | 562 | [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix) |  | 42.7% | Medium |
 | :heavy_check_mark: | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) | [JavaScript](Tree%2F563.%20Binary%20Tree%20Tilt.md) | 46.8% | Easy |
@@ -565,13 +565,13 @@
 |  | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) |  | 42.6% | Easy |
 |  | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii) |  | 48.3% | Easy |
 |  | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) |  | 46.9% | Easy |
-|  | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) |  | 32.2% | Hard |
+|  | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) |  | 32.1% | Hard |
 |  | 604 | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator) |  | 34.1% | Easy |
 |  | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) |  | 30.5% | Easy |
 | :heavy_check_mark: | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [JavaScript](Tree%2F606.%20Construct%20String%20from%20Binary%20Tree.md) | 50.8% | Easy |
 |  | 609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) |  | 53.7% | Medium |
 |  | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) |  | 43.8% | Medium |
-|  | 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string) |  | 38.6% | Medium |
+|  | 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string) |  | 38.5% | Medium |
 | :heavy_check_mark: | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [JavaScript](Tree%2F617.%20Merge%20Two%20Binary%20Trees.md) | 68.7% | Easy |
 |  | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) |  | 43.8% | Medium |
 |  | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) |  | 38.1% | Medium |
@@ -653,7 +653,7 @@
 | :heavy_check_mark: | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | [JavaScript](Tree%2F700.%20Search%20in%20a%20Binary%20Search%20Tree.md) | 65.7% | Easy |
 | :heavy_check_mark: | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | [JavaScript](Tree%2F701.%20Insert%20into%20a%20Binary%20Search%20Tree.md) | 72.5% | Medium |
 |  | 702 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size) |  | 52.1% | Medium |
-|  | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) |  | 43.0% | Easy |
+|  | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) |  | 43.1% | Easy |
 | :heavy_check_mark: | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [JavaScript](Binary%20Search%2F704.%20Binary%20Search.md) | 44.1% | Easy |
 |  | 705 | [Design HashSet](https://leetcode.com/problems/design-hashset) |  | 48.1% | Easy |
 |  | 706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) |  | 52.6% | Easy |
@@ -701,7 +701,7 @@
 |  | 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word) |  | 53.1% | Easy |
 |  | 749 | [Contain Virus](https://leetcode.com/problems/contain-virus) |  | 40.3% | Hard |
 |  | 750 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles) |  | 62.7% | Medium |
-|  | 751 | [IP to CIDR](https://leetcode.com/problems/ip-to-cidr) |  | 56.7% | Easy |
+|  | 751 | [IP to CIDR](https://leetcode.com/problems/ip-to-cidr) |  | 56.8% | Easy |
 |  | 752 | [Open the Lock](https://leetcode.com/problems/open-the-lock) |  | 43.5% | Medium |
 |  | 753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe) |  | 44.0% | Hard |
 |  | 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number) |  | 31.2% | Easy |
@@ -793,7 +793,7 @@
 |  | 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) |  | 35.1% | Easy |
 |  | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) |  | 58.6% | Medium |
 | :heavy_check_mark: | 842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence) | [JavaScript](Backtracking%2F842.%20Split%20Array%20into%20Fibonacci%20Sequence.md) | 34.6% | Medium |
-|  | 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word) |  | 41.3% | Hard |
+|  | 843 | [Guess the Word](https://leetcode.com/problems/guess-the-word) |  | 41.4% | Hard |
 | :heavy_check_mark: | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [JavaScript](Stack%2F844.%20Backspace%20String%20Compare.md) | 44.6% | Easy |
 |  | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array) |  | 33.5% | Medium |
 |  | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights) |  | 47.8% | Medium |
@@ -864,7 +864,7 @@
 |  | 911 | [Online Election](https://leetcode.com/problems/online-election) |  | 42.5% | Medium |
 |  | 913 | [Cat and Mouse](https://leetcode.com/problems/cat-and-mouse) |  | 25.9% | Hard |
 |  | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) |  | 34.3% | Easy |
-|  | 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals) |  | 41.3% | Medium |
+|  | 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals) |  | 41.4% | Medium |
 |  | 916 | [Word Subsets](https://leetcode.com/problems/word-subsets) |  | 43.6% | Medium |
 | :heavy_check_mark: | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [JavaScript](Two%20Pointers%2F917.%20Reverse%20Only%20Letters.md) | 56.0% | Easy |
 |  | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) |  | 27.8% | Medium |
@@ -878,7 +878,7 @@
 |  | 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) |  | 46.8% | Medium |
 |  | 927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts) |  | 28.6% | Hard |
 |  | 928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii) |  | 38.3% | Hard |
-|  | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) |  | 79.8% | Easy |
+|  | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) |  | 79.7% | Easy |
 |  | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) |  | 35.7% | Medium |
 |  | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) |  | 56.6% | Medium |
 |  | 932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array) |  | 49.8% | Medium |
@@ -909,7 +909,7 @@
 |  | 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days) |  | 36.3% | Medium |
 |  | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree) |  | 45.3% | Medium |
 |  | 959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes) |  | 62.5% | Medium |
-|  | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii) |  | 51.5% | Hard |
+|  | 960 | [Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii) |  | 51.4% | Hard |
 |  | 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) |  | 73.4% | Easy |
 |  | 962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp) |  | 37.6% | Medium |
 |  | 963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii) |  | 40.2% | Medium |
@@ -920,13 +920,13 @@
 |  | 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) |  | 32.6% | Hard |
 |  | 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting) |  | 62.2% | Medium |
 |  | 970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers) |  | 38.5% | Easy |
-|  | 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal) |  | 41.9% | Medium |
+|  | 971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal) |  | 41.8% | Medium |
 |  | 972 | [Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers) |  | 39.4% | Hard |
 |  | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) |  | 67.9% | Easy |
 |  | 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) |  | 37.6% | Medium |
 |  | 975 | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump) |  | 49.8% | Hard |
 |  | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) |  | 55.8% | Easy |
-|  | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) |  | 83.3% | Easy |
-|  | 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray) |  | 45.5% | Medium |
-|  | 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) |  | 63.0% | Medium |
-|  | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) |  | 72.1% | Hard |
+|  | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) |  | 83.0% | Easy |
+|  | 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray) |  | 45.9% | Medium |
+|  | 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) |  | 63.2% | Medium |
+|  | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) |  | 72.7% | Hard |
