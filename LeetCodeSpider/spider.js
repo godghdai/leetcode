@@ -82,7 +82,7 @@ function createMarkDown(heads, datas){
 ;
 (async () => {
     const browser = await puppeteer.launch({
-        headless: true,
+        headless: false,
         devtools: false
     });
     const page = await browser.newPage();
